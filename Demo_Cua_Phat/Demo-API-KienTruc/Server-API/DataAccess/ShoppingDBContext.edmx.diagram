@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="7e848d1f2380476ca3d6d6907a497037" Name="Diagram1">
+        <EntityTypeShape EntityType="Model.Accessory" Width="1.5" PointX="3" PointY="9.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Category" Width="1.5" PointX="0.75" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Customer" Width="1.5" PointX="0.75" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Order" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.OrderDetail" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Producer" Width="1.5" PointX="0.75" PointY="12.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Model.Staff" Width="1.5" PointX="0.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="Model.FK_dbo_Accessory_dbo_Category_CategoryId" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_dbo_Accessory_dbo_Producer_ProducerId" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_dbo_OrderDetail_dbo_Accessory_AccessoryId" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_dbo_Order_dbo_Customer_CustomerId" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_dbo_Order_dbo_Staff_StaffId" ManuallyRouted="false" />
+        <AssociationConnector Association="Model.FK_dbo_OrderDetail_dbo_Order_OrderId" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,24 @@
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\DataAccess.dll.config
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\DataAccess.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\DataAccess.pdb
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\obj\Debug\DataAccess.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\obj\Debug\DataAccess.pdb
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\EntityFramework.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\EntityFramework.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\DataAccess.dll.config
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\DataAccess.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\DataAccess.pdb
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\EntityFramework.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\EntityFramework.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\obj\Debug\DataAccess.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\DataAccess\obj\Debug\DataAccess.pdb

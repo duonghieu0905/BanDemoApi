@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<button onclick="GET()">GET</button>
+
+<script src="~/Scripts/jquery-3.5.1.js"></script>
+<script>
+    var data = []
+    function GET() {
+        $.ajax({
+            type: "GET",
+            dataType: "json",
+            url: "https://localhost:44370/api/customer/getcustomers",
+            data: data,
+            success: function (data) {
+                console.log(data);
+            },
+            error: function (error) {
+                jsonValue = jQuery.parseJSON(error.responseText);
+                alert("error" + error.responseText);
+            }
+        });
+    }
+</script>

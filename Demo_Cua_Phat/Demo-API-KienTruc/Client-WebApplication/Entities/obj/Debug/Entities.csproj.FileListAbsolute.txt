@@ -1,0 +1,6 @@
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-WebApplication\Entities\bin\Debug\Entities.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-WebApplication\Entities\bin\Debug\Entities.pdb
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-WebApplication\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-WebApplication\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-WebApplication\Entities\obj\Debug\Entities.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-WebApplication\Entities\obj\Debug\Entities.pdb

@@ -1,0 +1,184 @@
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\Server-API.dll.config
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\Server-API.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\Server-API.pdb
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csc.exe
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csc.exe.config
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csc.rsp
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csi.exe
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csi.exe.config
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csi.rsp
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.AppContext.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Collections.Immutable.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Console.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Globalization.Calendars.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.IO.Compression.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.IO.FileSystem.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Net.Http.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Net.Sockets.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Reflection.Metadata.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.ValueTuple.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Xml.XPath.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\vbc.exe
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\vbc.exe.config
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\vbc.rsp
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\VBCSCompiler.exe
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\VBCSCompiler.exe.config
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\Antlr3.Runtime.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\DataAccess.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\Microsoft.Web.Infrastructure.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\Newtonsoft.Json.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Net.Http.Formatting.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Helpers.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Http.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Http.WebHost.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Mvc.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Optimization.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Razor.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.Deployment.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.Razor.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\WebGrease.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\DataAccess.pdb
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\DataAccess.dll.config
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\Newtonsoft.Json.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Net.Http.Formatting.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Helpers.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Http.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Http.WebHost.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Mvc.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Optimization.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Razor.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.Deployment.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.Razor.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\Antlr3.Runtime.pdb
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\obj\Debug\Server-API.csprojAssemblyReference.cache
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\obj\Debug\Server-API.csproj.CoreCompileInputs.cache
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\obj\Debug\Server-API.csproj.CopyComplete
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\obj\Debug\Server-API.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\obj\Debug\Server-API.pdb
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\EntityFramework.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\EntityFramework.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\EntityFramework.SqlServer.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Server-API\Server-API\bin\EntityFramework.SqlServer.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\Server-API.dll.config
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\Server-API.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\Server-API.pdb
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csc.exe
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csc.exe.config
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csc.rsp
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csi.exe
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csi.exe.config
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\csi.rsp
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.AppContext.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Collections.Immutable.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Console.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Globalization.Calendars.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.IO.Compression.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.IO.FileSystem.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Net.Http.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Net.Sockets.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Reflection.Metadata.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.ValueTuple.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Xml.XPath.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\vbc.exe
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\vbc.exe.config
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\vbc.rsp
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\VBCSCompiler.exe
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\roslyn\VBCSCompiler.exe.config
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\Antlr3.Runtime.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\DataAccess.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\EntityFramework.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\EntityFramework.SqlServer.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\Microsoft.Web.Infrastructure.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\Newtonsoft.Json.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Net.Http.Formatting.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Helpers.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Http.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Http.WebHost.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Mvc.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Optimization.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Razor.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.Deployment.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.Razor.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\WebGrease.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\DataAccess.pdb
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\DataAccess.dll.config
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\EntityFramework.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\EntityFramework.SqlServer.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\Newtonsoft.Json.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Net.Http.Formatting.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Helpers.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Http.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Http.WebHost.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Mvc.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Optimization.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.Razor.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.Deployment.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\System.Web.WebPages.Razor.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\Antlr3.Runtime.pdb
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\obj\Debug\Server-API.csprojAssemblyReference.cache
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\obj\Debug\Server-API.csproj.CoreCompileInputs.cache
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\obj\Debug\Server-API.csproj.CopyComplete
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\obj\Debug\Server-API.dll
+E:\Demo-API-KienTruc\Demo-API-KienTruc\Server-API\Server-API\obj\Debug\Server-API.pdb

@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\DuongChiHieu_KT\DataAccess\bin\Debug\Newtonsoft.Json.xml

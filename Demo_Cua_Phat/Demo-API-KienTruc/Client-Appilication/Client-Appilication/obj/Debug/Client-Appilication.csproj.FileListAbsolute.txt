@@ -1,0 +1,15 @@
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\bin\Debug\Client-Appilication.exe.config
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\bin\Debug\Client-Appilication.exe
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\bin\Debug\Client-Appilication.pdb
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\obj\Debug\Client-Appilication.csprojAssemblyReference.cache
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\obj\Debug\Client_Appilication.Form1.resources
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\obj\Debug\Client_Appilication.Properties.Resources.resources
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\obj\Debug\Client-Appilication.csproj.GenerateResource.cache
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\obj\Debug\Client-Appilication.csproj.CoreCompileInputs.cache
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\obj\Debug\Client-Appilication.exe
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\obj\Debug\Client-Appilication.pdb
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\bin\Debug\Entities.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\bin\Debug\Newtonsoft.Json.dll
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\bin\Debug\Entities.pdb
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\bin\Debug\Newtonsoft.Json.xml
+D:\O_CUNG_CUA_PHAT\Code C#\Demo-API-KienTruc\Client-Appilication\Client-Appilication\obj\Debug\Client-Appilication.csproj.CopyComplete
